@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dr.Princewill
+- 👋 Hi, I’m Dr. Princewill
 - 👀 I’m interested in mobile app dev(Android and iOS), web dev and desktop dev
-- 🌱 I’m currently a pro a Flutter/Dart dev tool
+- 🌱 I’m professional in Flutter/Dart dev tool
 - 💞️ I’m looking to collaborate with anyone on any project
 - 📫 How to reach me; email: ezeaguprincewill5@gmail.com, twitter: @__Princewill_E_
 
