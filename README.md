@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr. Princewill
+- 👋 Hi, I’m Princewill
 - 👀 I’m interested in mobile app dev(Android and iOS), web dev and desktop dev
 - 🌱 I’m professional in Flutter/Dart dev tool
 - 💞️ I’m looking to collaborate with anyone on any project
